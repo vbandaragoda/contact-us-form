@@ -1,0 +1,8 @@
+Deployment successfully updated.
+Version 1 on Feb 5, 1:20 PM
+Deployment ID
+AKfycbxEsgQZHrnPuXuCQf8-k5QpK9MM_mKADf61XIesjIoYv87X1Bm164kqv1a67g9y-mFq
+
+Web app
+URL
+https://script.google.com/macros/s/AKfycbxEsgQZHrnPuXuCQf8-k5QpK9MM_mKADf61XIesjIoYv87X1Bm164kqv1a67g9y-mFq/exec
